@@ -109,7 +109,7 @@ Apply least privilege access controls
 
 Use secure key management systems
 
-# Sample OpenSSL Commands
+# OpenSSL Commands
 
 Decrypt Encrypted Credentials
 
@@ -118,6 +118,7 @@ echo 'ENCRYPTED_TEXT' | openssl aes-256-cbc -pbkdf2 -a -d
 Decrypt Encrypted File
 
 openssl aes-256-cbc -pbkdf2 -a -d -in clientinfo.enc -out clientinfo.txt
+
 # Skills Demonstrated
 
 Cryptography
