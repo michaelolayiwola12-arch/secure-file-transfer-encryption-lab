@@ -51,14 +51,21 @@ Analyze risks of insecure transfer protocols
 Recover encrypted customer information
 
 Perform AES-256-CBC decryption using OpenSSL
-🛠 Technologies Used
-Technology	Purpose
+
+# Technologies Used & Technology	Purpose
+
 Cisco Packet Tracer	Network simulation
+
 OpenSSL	Encryption & decryption
+
 Linux Terminal	Command-line operations
+
 FTP	File transfer
+
 AES-256-CBC	Symmetric encryption
+
 PBKDF2	Password-based key derivation
+
 VirtualBox	Virtualized lab environment
 
 # Key Cybersecurity Concepts Demonstrated
