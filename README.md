@@ -1,4 +1,7 @@
-# Explore File and Data Encryption – Cybersecurity Project
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Project-blue)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-Encyption-green)
+![Linux](https://img.shields.io/badge/Linux-Terminal-yellow)
+![PacketTracer](https://img.shields.io/badge/Cisco-PacketTracer-red)# Explore File and Data Encryption – Cybersecurity Project
 
 # Project Overview
 
