@@ -54,19 +54,19 @@ Perform AES-256-CBC decryption using OpenSSL
 
 # Technologies Used & Technology	Purpose
 
-Cisco Packet Tracer	Network simulation
+Cisco Packet Tracer -	Network simulation
 
-OpenSSL	Encryption & decryption
+OpenSSL -	Encryption & decryption
 
-Linux Terminal	Command-line operations
+Linux Terminal -	Command-line operations
 
-FTP	File transfer
+FTP	- File transfer
 
-AES-256-CBC	Symmetric encryption
+AES-256-CBC	- Symmetric encryption
 
-PBKDF2	Password-based key derivation
+PBKDF2	- Password-based key derivation
 
-VirtualBox	Virtualized lab environment
+VirtualBox	- Virtualized lab environment
 
 # Key Cybersecurity Concepts Demonstrated
 
